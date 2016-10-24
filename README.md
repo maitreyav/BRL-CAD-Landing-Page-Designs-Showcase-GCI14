@@ -1,5 +1,5 @@
 # BRL-CAD Landing Page Designs Showcase GCI14
-The web page  lists each user, displays a preview of the design as an image (screenshot) and then after clicking on the image you
+The web page  lists each contributor, displays a preview of the design as an image (screenshot) and then after clicking on the image you
 get the full-screen view as how it will look and also there is link to the actual design. The task was created by BRL-CAD during 
 Google Code-in 2014. 
 
